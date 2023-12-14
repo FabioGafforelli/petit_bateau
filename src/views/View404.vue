@@ -22,20 +22,10 @@
               <p class="mb-8 text-center text-gray-500 md:text-lg">
           Vous cherchiez peut-être ?
         </p>
-                <RouterLink to="/politique" class="px-6 py-2 text-sm font-semibold text-red-700 bg-red-100"
-          >Politique ?</RouterLink>
+                <a href="https://fabiogafforelli.fr" class="px-6 py-2 text-sm font-semibold text-red-700 bg-red-100"
+          >Le FAB ?</a>
           <br>
-                <RouterLink to="/reglement" class="px-6 py-2 text-sm font-semibold text-red-700 bg-red-100"
-          >Société ?</RouterLink>
-          <br>
-                <RouterLink to="/jeux" class="px-6 py-2 text-sm font-semibold text-red-700 bg-red-100"
-          >Economie ?</RouterLink>
-          <br>
-                <RouterLink to="/inscription" class="px-6 py-2 text-sm font-semibold text-red-700 bg-red-100"
-          >Santé ?</RouterLink>
-          <br>
-                <RouterLink to="/contact" class="px-6 py-2 text-sm font-semibold text-red-700 bg-red-100"
-          >Sport ?</RouterLink>
+         
                 </div>
     </div>
   </div>
